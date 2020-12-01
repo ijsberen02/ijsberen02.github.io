@@ -1,3 +1,11 @@
+var name = prompt("name");
+if (name === "hamza") {
+    alert("hi hamza!");
+} else if (name === "ichraq") {
+    alert("hi ichraq!");
+} else {
+    alert("hmm who are you!");
+}
 (function($){
 	"use strict";
 
